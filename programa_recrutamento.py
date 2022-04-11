@@ -1,5 +1,4 @@
-#Este programa vai nos auxiliar no processo de recrutamento e Seleção para a Cielo Pagamentos
-
+#Este programa vai nos auxiliar no processo de recrutamento e Seleção
 x=1
 
 while x==1:
